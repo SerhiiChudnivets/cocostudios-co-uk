@@ -31,15 +31,15 @@
   "redirect_link": "",
   "home_name": "",
   "subdomains": null,
-  "accent_color": "#111111",
+  "accent_color": "#2563EB",
   "main_background": "#ffffff",
-  "secondary_background": "#000000",
-  "button_background": "#111111",
-  "button_text_color": "#000000",
-  "text_color": "#000000",
-  "color_highlight_text": "#000000",
-  "color_main_btn_text": "#000000",
-  "cta_background": "#000000",
+  "secondary_background": "#F3F6FA",
+  "button_background": "#1E293B",
+  "button_text_color": "#FFFFFF",
+  "text_color": "#1F2937",
+  "color_highlight_text": "#2563EB",
+  "color_main_btn_text": "#FFFFFF",
+  "cta_background": "#1D4ED8",
   "logo": {
     "url": "/uploads/3438c8e1bca543d624c8cec797086858.png",
     "alt": "non gamstop casino"
@@ -53,8 +53,8 @@
   "Bonuses": null,
   "Reviews": null,
   "FAQ": null,
-  "_generated_at": "2026-11-09T10:37:53.859Z",
+  "_generated_at": "2026-11-09T10:40:40.539Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-09T10:37:54.525Z",
-  "_deploy_trigger": "uwuudi"
+  "_last_deploy": "2026-11-09T10:40:41.282Z",
+  "_deploy_trigger": "yn95o4"
 }
