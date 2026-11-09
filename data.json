@@ -35,7 +35,7 @@
   "main_background": "#ffffff",
   "secondary_background": "#000000",
   "button_background": "#111111",
-  "button_text_color": "#000000",
+  "button_text_color": "#ffffff",
   "text_color": "#000000",
   "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#000000",
@@ -53,8 +53,8 @@
   "Bonuses": null,
   "Reviews": null,
   "FAQ": null,
-  "_generated_at": "2026-11-09T10:34:15.656Z",
+  "_generated_at": "2026-11-09T10:35:35.027Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-09T10:34:16.370Z",
-  "_deploy_trigger": "fkf0bh"
+  "_last_deploy": "2026-11-09T10:35:35.830Z",
+  "_deploy_trigger": "3q2ll6"
 }
