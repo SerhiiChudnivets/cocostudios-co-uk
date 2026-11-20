@@ -51,10 +51,19 @@
   "footer_images": null,
   "Slots": null,
   "Bonuses": null,
-  "Reviews": null,
+  "Reviews": [
+    {
+      "link": "https://playlink.ink/basswin",
+      "logo": "/uploads/0bf2a360f50e1f070159c21cef70d4fc.webp",
+      "name": "Bass Win Casino",
+      "bonus": "Welcome Bonus 100% up to £200 + 120 FS",
+      "rating": "5",
+      "Name": "Bass Win Casino"
+    }
+  ],
   "FAQ": null,
-  "_generated_at": "2026-11-09T10:41:25.705Z",
+  "_generated_at": "2026-11-20T11:35:50.628Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-09T10:41:26.423Z",
-  "_deploy_trigger": "gz8xu"
+  "_last_deploy": "2026-11-20T11:35:51.426Z",
+  "_deploy_trigger": "5rnmpo"
 }
