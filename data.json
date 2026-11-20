@@ -59,11 +59,19 @@
       "bonus": "Welcome Bonus 100% up to £200 + 120 FS",
       "rating": "5",
       "Name": "Bass Win Casino"
+    },
+    {
+      "link": "/winstler",
+      "logo": "/uploads/a9717473c3b900e08f5b688accf45e10.webp",
+      "name": "Winstler Casino",
+      "bonus": "Welcome Pack Up to £500 + 200 FS",
+      "rating": "4.9",
+      "Name": "Winstler Casino"
     }
   ],
   "FAQ": null,
-  "_generated_at": "2026-11-20T11:35:50.628Z",
+  "_generated_at": "2026-11-20T11:42:14.146Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-20T11:35:51.426Z",
-  "_deploy_trigger": "5rnmpo"
+  "_last_deploy": "2026-11-20T11:42:14.814Z",
+  "_deploy_trigger": "yytfw"
 }
